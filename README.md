@@ -1,5 +1,13 @@
-### Hi there 👋
 
+<h3 align="center">👋 Hi there!</h3>
+<p align="center">  
+  <a href="https://discord.gg/3Chh8gu">
+  <img align="center" alt="Wonder's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+
+</p>
+
+---
 <!--
 **YaBoyWonder/YaBoyWonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
