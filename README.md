@@ -2,11 +2,11 @@
 <h3 align="center">👋 Hi there!</h3>
 <p align="center">  
 
-<br/>
-<a href="https://discord.com/users/138431969418543104" target="_blank">
-	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/138431969418543104?bg=1f1f1f&borderRadius=5px">
-</a>
+<div align="center">  
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/138431969418543104?&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/138431969418543104)
+
+</div>
 </p>
 
 ---
