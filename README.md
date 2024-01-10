@@ -8,12 +8,7 @@
 </p>
 -->
 ### Hi there 👋🏼
-Computer Science from the University of New Hampshire </br>
-Interested in FullStack & AI Development
-
-<a href="https://www.linkedin.com/in/rchalumuri" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rchalumuri" height="30" width="30" /></a>
-
-
+I'm a Computer Science student who likes to code different programs. </br>
 
 
 ---
