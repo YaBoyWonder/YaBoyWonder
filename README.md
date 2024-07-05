@@ -8,7 +8,7 @@
 </p>
 -->
 ### Hi there 👋🏼
-I'm a Computer Science student who likes to code different programs. </br>
+I'm Rahul, a Computer Science graduate. </br>
 
 
 ---
