@@ -8,7 +8,7 @@
 </p>
 -->
 ### Hi there 👋🏼
-I'm Rahul, a Computer Science graduate. </br>
+I'm Rahul, a Software Engineer. </br>
 
 
 ---
